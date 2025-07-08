@@ -77,7 +77,7 @@
 ---
 
 ## 📫 Let’s Connect
-- 💬 Open to collaboration on embedded security tech, smart construction tools, **area denial systems**, or remote monitoring solutions
+- 💬 Open to collaboration on embedded security tech, smart construction tools, **area denial systems**, or **remote monitoring solutions**
 - 🌐 Learn more at: [citadelwiresystems.com](https://citadelwiresystems.com) (updating soon)
 
 ---
