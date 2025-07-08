@@ -23,7 +23,7 @@
 ---
 
 ## 🚀 About Me
-- 🏗 I’m the founder of **Citadel Wire Systems**, a startup born in my garage to revolutionize **patented prefabricated low-voltage cabling** for commercial construction.
+- 🏗 I’m the founder of **Citadel Wire Systems**, a startup born in my garage to revolutionize **prefabricated low-voltage cabling** for commercial construction.
 - ⚡ My background is in **engineering and problem-solving**, with hands-on experience in electrical systems, security infrastructure, and construction integration.
 - 💡 Passionate about scalable solutions, including **LoRaD-based area denial systems** and modular deterrent tech.
 - 🔬 Currently experimenting with **IoT, Nitinol based conduit, embedded systems**, and **LilyGO T-Display & LoRa** for smart deployments.
@@ -34,7 +34,7 @@
 ## 🛠 Skills & Tools
 | Electrical & Embedded | Software | Business |
 |:---------------------:|:--------:|:--------:|
-| Low-voltage wiring, Nitinol wire heating, PCB design | Arduino, ESP32, LoRa, KiCad | Low-voltage infrastructure design, SOWs, B2B sales, Strategic partnerships |
+| Low-voltage wiring Patent Holder, Nitinol wire heating, PCB design | Arduino, ESP32, LoRa, KiCad | Low-voltage infrastructure design, SOWs, B2B sales, Strategic partnerships |
 
 ---
 
