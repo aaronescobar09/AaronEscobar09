@@ -27,7 +27,7 @@
 - ⚡ My background is in **engineering and problem-solving**, with hands-on experience in electrical systems, security infrastructure, and construction integration.
 - 💡 Passionate about scalable solutions, including **LoRaD-based area denial systems** and modular deterrent tech.
 - 🔬 Currently experimenting with **IoT, Nitinol based conduit, embedded systems**, and **LilyGO T-Display & LoRa** for smart deployments.
-- 📫 Reach me at: [aescobarcitadelwiresystems@citadelwiresystems.com](mailto:aescobarcitadelwiresystems@citadelwiresystems.com) | [LinkedIn](https://www.linkedin.com/in/aaron-cws/)
+- 📫 Reach me at: [aescobar@citadelwiresystems.com](mailto:aescobarcitadelwiresystems@citadelwiresystems.com) | [LinkedIn](https://www.linkedin.com/in/aaron-cws/)
 
 ---
 
