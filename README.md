@@ -26,6 +26,9 @@
   <!-- AI SDR Toolkit -->
   <img src="https://img.shields.io/badge/AI%20SDR%20Toolkit-D96500?style=for-the-badge&logo=hubspot&logoColor=white"/>
 
+  <!-- X Articles -->
+  <img src="https://img.shields.io/badge/X%20Articles-000000?style=for-the-badge&logo=x&logoColor=white"/>
+
   <!-- OpenClaw -->
   <img src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
@@ -35,7 +38,9 @@ I'm the founder and CEO of **Citadel Wire Systems**, based in San Antonio, Texas
 
 My main work is focused on **prefabricated low-voltage wiring** for commercial construction and **ADS-One active deterrent security systems** for sites that need more than passive cameras. I care about: cleaner installs, faster deployment, better monitoring, and hardware that actually solves the problem.
 
-Recently, I've been working on AI-assisted workflows for real businesses — using agents to help design, code, test, document, and operate projects. I'm also developing an **AI-powered SDR toolkit** for lead generation, signal classification, outreach drafting, and content distribution workflows. 
+Recently, I'm building **OpenMux**, an AI-assisted software pipeline that turns specs into reviewed, tested builds using specialized agents for architecture, engineering, QA, and design review. I'm also developing an **AI-powered SDR toolkit** for lead generation, signal classification, outreach drafting, and content distribution workflows.
+
+I also write short X articles from my research notes on agentic coding, local AI, second brains, SDR tooling, and how small businesses can use AI where software meets the physical world.
 
 My interests include embedded systems, LoRa field devices, ESP32 prototypes, security automation, agent pipelines, and turning internal CWS workflows into software products.
 
