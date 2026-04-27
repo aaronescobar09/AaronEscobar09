@@ -23,6 +23,9 @@
   <!-- AI Agents -->
   <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
+  <!-- Local Inference -->
+  <img src="https://img.shields.io/badge/Local%20Inference-111827?style=for-the-badge&logo=apple&logoColor=white"/>
+
   <!-- AI SDR Toolkit -->
   <img src="https://img.shields.io/badge/AI%20SDR%20Toolkit-D96500?style=for-the-badge&logo=hubspot&logoColor=white"/>
 
