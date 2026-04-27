@@ -29,6 +29,9 @@
   <!-- X Articles -->
   <img src="https://img.shields.io/badge/X%20Articles-000000?style=for-the-badge&logo=x&logoColor=white"/>
 
+  <!-- tmux -->
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+
   <!-- OpenClaw -->
   <img src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
