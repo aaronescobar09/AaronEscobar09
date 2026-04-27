@@ -11,6 +11,9 @@
   <!-- Low Voltage -->
   <img src="https://img.shields.io/badge/Low%20Voltage-2F6B4F?style=for-the-badge&logo=electron&logoColor=white"/>
 
+  <!-- Patented Low-Voltage Wiring -->
+  <img src="https://img.shields.io/badge/Patented%20Low--Voltage%20Wiring-0E7C7B?style=for-the-badge"/>
+
   <!-- Security Systems -->
   <img src="https://img.shields.io/badge/Security%20Systems-9B1C31?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
 
