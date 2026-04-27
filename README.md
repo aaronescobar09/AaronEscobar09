@@ -8,9 +8,6 @@
   <!-- Construction Tech -->
   <img src="https://img.shields.io/badge/Construction%20Tech-8B5A2B?style=for-the-badge&logo=construct3&logoColor=white"/>
 
-  <!-- Low Voltage -->
-  <img src="https://img.shields.io/badge/Low%20Voltage-2F6B4F?style=for-the-badge&logo=electron&logoColor=white"/>
-
   <!-- Patented Low-Voltage Wiring -->
   <img src="https://img.shields.io/badge/Patented%20Low--Voltage%20Wiring-0E7C7B?style=for-the-badge"/>
 
