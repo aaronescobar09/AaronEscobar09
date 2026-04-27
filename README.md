@@ -45,7 +45,7 @@ Lately I've been building **OpenMux**, a tmux-based AI coding workflow where spe
 
 I'm also experimenting with AI simulations for business use cases — using agents to test product ideas, compare feature paths, surface adoption risks, and help teams make better decisions before committing time and money.
 
-I write short X articles from my notes on agentic coding, local AI, second brains, SDR tooling, and practical AI for small businesses.
+I write short articles from my notes on agentic coding, local AI, second brains, SDR tooling, and practical AI for small businesses.
 
 Follow me on:
 <a href="https://citadelwiresystems.com" target="_blank"><img src="https://img.shields.io/badge/Citadel%20Wire%20Systems-1F4E79?style=for-the-badge&logo=safari&logoColor=white" /></a>
