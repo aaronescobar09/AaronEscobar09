@@ -1,84 +1,47 @@
-<!-- PROJECT HEADER -->
-<div align="center">
-  <h1>👋 Hi, I'm Aaron Escobar</h1>
-  <p>Founder • Engineer • Innovator | Building faster futures with wire systems</p>
+## 👋 Hi! I'm Aaron Escobar
 
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/aaronescobar">
-      <img src="https://komarev.com/ghpvc/?username=aaronescobar" alt="Profile views"/>
-    </a>
-    <a href="https://github.com/aaronescobar?tab=followers">
-      <img src="https://img.shields.io/github/followers/aaronescobar?label=Followers" alt="GitHub followers"/>
-    </a>
-  </p>
+<p align="left">
 
-  <!-- GitHub Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronescobar&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronescobar&theme=radical" alt="GitHub Streak">
-  </p>
-</div>
+  <!-- Founder / CWS -->
+  <img src="https://img.shields.io/badge/Founder%20%26%20CEO-1F4E79?style=for-the-badge&logo=building&logoColor=white"/>
 
----
+  <!-- Construction Tech -->
+  <img src="https://img.shields.io/badge/Construction%20Tech-8B5A2B?style=for-the-badge&logo=construct3&logoColor=white"/>
 
-## 🚀 About Me
-- 🏗 I’m the founder of **Citadel Wire Systems**, a startup born in my garage to revolutionize **prefabricated low-voltage cabling** for commercial construction.
-- ⚡ My background is in **engineering and problem-solving**, with hands-on experience in electrical systems, security infrastructure, and construction integration.
-- 💡 Passionate about scalable solutions, including **LoRaD-based area denial systems** and modular deterrent tech.
-- 🔬 Currently experimenting with **IoT, Nitinol based conduit, embedded systems**, and **LilyGO T-Display & LoRa** for smart deployments.
-- 📫 Reach me at: [aescobar@citadelwiresystems.com](mailto:aescobarcitadelwiresystems@citadelwiresystems.com) | [LinkedIn](https://www.linkedin.com/in/aaron-cws/)
+  <!-- Low Voltage -->
+  <img src="https://img.shields.io/badge/Low%20Voltage-2F6B4F?style=for-the-badge&logo=electron&logoColor=white"/>
 
----
+  <!-- Security Systems -->
+  <img src="https://img.shields.io/badge/Security%20Systems-9B1C31?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
 
-## 🛠 Skills & Tools
-| Electrical & Embedded | Software | Business |
-|:---------------------:|:--------:|:--------:|
-| Low-voltage wiring Patent Holder, Nitinol wire heating, PCB design | Arduino, ESP32, LoRa, KiCad | Low-voltage infrastructure design, SOWs, B2B sales, Strategic partnerships |
+  <!-- LoRa / IoT -->
+  <img src="https://img.shields.io/badge/LoRa%20%2F%20IoT-5A2B93?style=for-the-badge&logo=thethingsnetwork&logoColor=white"/>
 
----
+  <!-- ESP32 -->
+  <img src="https://img.shields.io/badge/ESP32-3A77D4?style=for-the-badge&logo=espressif&logoColor=white"/>
 
-## 💼 What I'm Working On
-### 🔧 **Security Camera Infrastructure**
-- Installing wireless camera base stations on reinforced light poles
-- Trenching, rebar reinforcement, and smart conduit routing
+  <!-- AI Agents -->
+  <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
-### 📡 **Wireless Bridge & Lora Deployments**
-- Integrating camera poles with WiFi bridge near central control points
-- Reducing cable costs through wireless sync
-- Integrating Lora based triggers to arm active denial security systems 
+  <!-- AI SDR Toolkit -->
+  <img src="https://img.shields.io/badge/AI%20SDR%20Toolkit-D96500?style=for-the-badge&logo=hubspot&logoColor=white"/>
 
-### 🧠 **R&D Projects**
-- **LoRaD-Based Area Denial Systems** using long-range mesh-triggered deterrents with visual and audible outputs
-- Capacitor bank design for heating NItonol wire
-- Battery load analysis for mobile heating systems
-- Custom deterrent boxes with LRAD warning and Lora based smart triggers
+  <!-- OpenClaw -->
+  <img src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
----
+</p>
 
-## 🧠 Featured Tech Stack
-- ⚙️ **Hardware**: ESP32, LilyGO T-Display 2.1 / T3 v1.6.1, OLED displays
-- 📡 **Protocols**: LoRa, WiFi, I2C, SPI
-- 🧰 **Tools**: Arduino IDE, GitHub Desktop, KiCad, VSCode
-- 🎛 **UI**: Adafruit GFX, FreeSans Fonts
+I'm the founder and CEO of **Citadel Wire Systems**, based in San Antonio, Texas. I build practical systems where hardware, software, security, and construction overlap.
 
----
- 
-## ✍️ Sample Work & Experiments
-- `📟 Custom LoRa Message Display` – OLED+LoRa on LilyGO with font/menu customization
-- `🔋 12V/24V Nitinol Heating` – Mobile heating systems and current analysis
-- `🚨 LoRaD Perimeter Demo` – Early tests of triggered deterrent zones using LoRa signals
+My main work is focused on **prefabricated low-voltage wiring** for commercial construction and **ADS-One active deterrent security systems** for sites that need more than passive cameras. I care about tools that survive the field: cleaner installs, faster deployment, better monitoring, and hardware that actually solves the problem.
 
----
+Recently, I've been working on AI-assisted workflows for real businesses — using agents to help design, code, test, document, and operate projects. I'm also developing an **AI-powered SDR toolkit** for lead generation, signal classification, outreach drafting, and content distribution workflows.
 
-## 📈 GitHub Contribution Chart
-![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=aaronescobar&layout=compact&theme=radical)
+My interests include embedded systems, LoRa field devices, ESP32 prototypes, security automation, web dashboards, agent pipelines, and turning internal CWS workflows into software products.
 
----
-
-## 📫 Let’s Connect
-- 💬 Open to collaboration on embedded security tech, smart construction tools, **area denial systems**, or **remote monitoring solutions**
-- 🌐 Learn more at: [citadelwiresystems.com](https://citadelwiresystems.com) (updating soon)
-
----
-
+Follow me on:
+<a href="https://citadelwiresystems.com" target="_blank"><img src="https://img.shields.io/badge/Citadel%20Wire%20Systems-1F4E79?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aaron-cws/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/escobar_aaronb" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:info@citadelwiresystems.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/aaronescobar09" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
