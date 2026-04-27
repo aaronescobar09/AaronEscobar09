@@ -37,15 +37,15 @@
 
 </p>
 
-I'm the founder and CEO of **Citadel Wire Systems**, based in San Antonio, Texas. I build practical systems where hardware, software, security, and construction overlap.
+I started Citadel Wire Systems in San Antonio from my garage.
 
-My main work is focused on a patented **prefabricated low-voltage wiring** systems for commercial construction and **ADS-One active deterrent security systems** for sites that need more than passive cameras. I care about: cleaner installs, faster deployment, better monitoring, and hardware that actually solves the problem.
+CWS builds patented prefabricated low-voltage wiring systems for commercial construction, along with active deterrent systems for sites that need more than passive cameras.
 
-Recently, I'm building **OpenMux**, an AI-assisted software pipeline that turns specs into reviewed, tested builds using specialized agents for architecture, engineering, QA, and design review. I'm also developing an **AI-powered SDR toolkit** for lead generation, signal classification, outreach drafting, and content distribution workflows.
+Lately I've been building **OpenMux**, a tmux-based AI coding workflow where specialized agents write specs, build features, review work, and test with QA.
 
-I also write short X articles from my research notes on agentic coding, local AI, second brains, SDR tooling, and how small businesses can use AI where software meets the physical world.
+I'm also experimenting with AI simulations for business use cases — using agents to test product ideas, compare feature paths, surface adoption risks, and help teams make better decisions before committing time and money.
 
-My interests include embedded systems, LoRa field devices, ESP32 prototypes, security automation, agent pipelines, and turning internal CWS workflows into software products.
+I write short X articles from my notes on agentic coding, local AI, second brains, SDR tooling, and practical AI for small businesses.
 
 Follow me on:
 <a href="https://citadelwiresystems.com" target="_blank"><img src="https://img.shields.io/badge/Citadel%20Wire%20Systems-1F4E79?style=for-the-badge&logo=safari&logoColor=white" /></a>
