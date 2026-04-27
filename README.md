@@ -36,7 +36,7 @@
 
 I'm the founder and CEO of **Citadel Wire Systems**, based in San Antonio, Texas. I build practical systems where hardware, software, security, and construction overlap.
 
-My main work is focused on **prefabricated low-voltage wiring** for commercial construction and **ADS-One active deterrent security systems** for sites that need more than passive cameras. I care about: cleaner installs, faster deployment, better monitoring, and hardware that actually solves the problem.
+My main work is focused on a patented **prefabricated low-voltage wiring** system for commercial construction and **ADS-One active deterrent security systems** for sites that need more than passive cameras. I care about: cleaner installs, faster deployment, better monitoring, and hardware that actually solves the problem.
 
 Recently, I'm building **OpenMux**, an AI-assisted software pipeline that turns specs into reviewed, tested builds using specialized agents for architecture, engineering, QA, and design review. I'm also developing an **AI-powered SDR toolkit** for lead generation, signal classification, outreach drafting, and content distribution workflows.
 
