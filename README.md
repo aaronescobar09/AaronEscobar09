@@ -33,11 +33,11 @@
 
 I'm the founder and CEO of **Citadel Wire Systems**, based in San Antonio, Texas. I build practical systems where hardware, software, security, and construction overlap.
 
-My main work is focused on **prefabricated low-voltage wiring** for commercial construction and **ADS-One active deterrent security systems** for sites that need more than passive cameras. I care about tools that survive the field: cleaner installs, faster deployment, better monitoring, and hardware that actually solves the problem.
+My main work is focused on **prefabricated low-voltage wiring** for commercial construction and **ADS-One active deterrent security systems** for sites that need more than passive cameras. I care about: cleaner installs, faster deployment, better monitoring, and hardware that actually solves the problem.
 
-Recently, I've been working on AI-assisted workflows for real businesses — using agents to help design, code, test, document, and operate projects. I'm also developing an **AI-powered SDR toolkit** for lead generation, signal classification, outreach drafting, and content distribution workflows.
+Recently, I've been working on AI-assisted workflows for real businesses — using agents to help design, code, test, document, and operate projects. I'm also developing an **AI-powered SDR toolkit** for lead generation, signal classification, outreach drafting, and content distribution workflows. 
 
-My interests include embedded systems, LoRa field devices, ESP32 prototypes, security automation, web dashboards, agent pipelines, and turning internal CWS workflows into software products.
+My interests include embedded systems, LoRa field devices, ESP32 prototypes, security automation, agent pipelines, and turning internal CWS workflows into software products.
 
 Follow me on:
 <a href="https://citadelwiresystems.com" target="_blank"><img src="https://img.shields.io/badge/Citadel%20Wire%20Systems-1F4E79?style=for-the-badge&logo=safari&logoColor=white" /></a>
